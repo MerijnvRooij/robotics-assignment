@@ -1,76 +1,76 @@
-     1	black
-     2	white
-     3	blue
-     4	brown
-     5	gray
-     6	orange
-     7	red
-     8	yellow
-     9	patches
-    10	spots
-    11	stripes
-    12	furry
-    13	hairless
-    14	toughskin
-    15	big
-    16	small
-    19	flippers
-    20	hands
-    21	hooves
-    22	pads
-    23	paws
-    24	longleg
-    25	longneck
-    26	tail
-    27	chewteeth
-    28	meatteeth
-    31	horns
-    32	claws
-    33	tusks
-    34	smelly
-    35	flys
-    36	hops
-    37	swims
-    38	tunnels
-    39	walks
-    40	fast
-    41	slow
-    42	strong
-    43	weak
-    44	muscle
-    45	bipedal
-    46	quadrapedal
-    47	active
-    48	inactive
-    49	nocturnal
-    50	hibernate
-    52	fish
-    53	meat
-    54	plankton
-    55	vegetation
-    56	insects
-    57	forager
-    58	grazer
-    59	hunter
-    60	scavenger
-    61	skimmer
-    63	newworld
-    64	oldworld
-    65	arctic
-    66	coastal
-    67	desert
-    68	bush
-    69	plains
-    70	forest
-    71	fields
-    72	jungle
-    73	mountains
-    74	ocean
-    75	ground
-    76	water
-    77	tree
-    78	cave
-    82	group
-    83	solitary
-    84	nestspot
-    85	domestic
+     1	does it have black colour
+     2	does it have white colour
+     3	does it have blue colour
+     4	does it have brown colour
+     5	does it have gray colour
+     6	does it have orange colour
+     7	does it have red colour
+     8	does it have yellow colour
+     9	does it have patches
+    10	does it have spots
+    11	does it have stripes
+    12	is it furry
+    13	is it hairless
+    14	does it have toughs kin
+    15	is it big
+    16	is it small
+    19	does it have flippers
+    20	does it have hands
+    21	does it have hooves
+    22	does it have pads
+    23	does it have paws
+    24	does it have long legs
+    25	does it have a long neck
+    26	does it have a tail
+    27	does it have chewteeth
+    28	does it have meatteeth
+    31	does it have horns
+    32	does it have claws
+    33	does it have tusks
+    34	is it smelly
+    35	does it fly
+    36	does it hop
+    37	does it swim
+    38	does it tunnel
+    39	does it walk
+    40	is it fast
+    41	is it slow
+    42	is it strong
+    43	is it weak
+    44	is it muscular
+    45	does it have two legs
+    46	does it have four legs
+    47	is it active
+    48	is it inactive
+    49	is it nocturnal
+    50	is it a hibernate
+    52	does it eat fish
+    53	does it eat meat
+    54	does it eat plankton
+    55	does it eat vegetation
+    56	does it eat insects
+    57	is it a forager
+    58	is it a grazer
+    59	is it a hunter
+    60	is it a scavenger
+    61	is it a skimmer
+    63	does it live in the Americas
+    64	does it live in Asia, Africa or Europe
+    65	is it an arctic animal
+    66	is it a coastal animal
+    67	is it a desert animal
+    68	is it a bush animal
+    69	does it live on the plains
+    70	does it live in the forest
+    71	does it live on the fields
+    72	does it live in the jungle
+    73	does it live in the mountains
+    74	does it live in the ocean
+    75	does it live on the ground
+    76	does it live in the water
+    77	does it live in trees
+    78	does it live in a cave
+    82	is it a group animal
+    83	does it live on its own
+    84	does it live in a nestspot
+    85	is it a domestic animal
