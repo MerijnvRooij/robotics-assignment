@@ -28,50 +28,50 @@
     32	claws
     33	tusks
     34	smelly
-    35	flys
-    36	hops
-    37	swims
-    38	tunnels
-    39	walks
+    35	it flies
+    36	it hops
+    37	it swims
+    38	it tunnels
+    39	it walks
     40	fast
     41	slow
     42	strong
     43	weak
-    44	muscle
-    45	bipedal
-    46	quadrapedal
+    44	muscular
+    45	two legs
+    46	four legs
     47	active
     48	inactive
     49	nocturnal
     50	hibernate
-    52	fish
-    53	meat
-    54	plankton
-    55	vegetation
-    56	insects
+    52	eats fish
+    53	eats meat
+    54	eats plankton
+    55	eats vegetation
+    56	eats insects
     57	forager
     58	grazer
     59	hunter
     60	scavenger
-    61	skimmer
+    61	skimmer (hovers in the air)
     62	stalker
-    63	newworld
-    64	oldworld
+    63	newworld (Americas)
+    64	oldworld (Afr, Asi, Eur)
     65	arctic
-    66	coastal
-    67	desert
-    68	bush
-    69	plains
-    70	forest
-    71	fields
-    72	jungle
-    73	mountains
-    74	ocean
-    75	ground
-    76	water
-    77	tree
-    78	cave
-    82	group
-    83	solitary
-    84	nestspot
-    85	domestic
+    66	region: coastal
+    67	region: desert
+    68	region: bushes
+    69	region: plains
+    70	region: forest
+    71	region: fields
+    72	region: jungle
+    73	region: mountains
+    74	region: ocean
+    75	home: ground
+    76	home: water
+    77	home: tree
+    78	home: cave
+    82	group animal
+    83	solitary animal
+    84	nestspot animal
+    85	domestic animal
